@@ -11,7 +11,7 @@ const Navbar = () => {
           width="50px"
           className="rounded-full"
         />
-        <select className="rounded-lg bg-black outline-none mr-2">
+        <select className="font-bold rounded-lg bg-black outline-none">
           <option>Login</option>
           <option>Register</option>
           <option>Logout</option>
